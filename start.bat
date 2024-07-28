@@ -1,5 +1,6 @@
 @echo off
-echo le bot se lance
+color b
+echo Lancement du bot !
 python main.py
 
 pause
