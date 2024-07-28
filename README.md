@@ -1,3 +1,5 @@
+# Protect Bot
+
 Français :
 
 Voici un petit bot de modération simple avec les commandes suivantes : Ban, Kick, Mute, ainsi qu'un Anti-lien et un Anti-Spam configurable !
